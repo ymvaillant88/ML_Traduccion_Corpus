@@ -1,0 +1,17 @@
+# Frameworks de aprendizaje profundo
+tensorflow
+
+# Biblioteca de aprendizaje automático de código abierto para Python
+scikit-learn
+
+# Biblioteca de Python para manipulación y análisis de datos
+pandas
+Numpy
+
+# Biblioteca de Python para visualización de datos
+matplotlib
+
+# Biblioteca de Python para procesamiento de lenguaje natural
+nltk
+
+
